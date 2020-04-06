@@ -1,0 +1,470 @@
+(TOP ) Farm Management Transformed
+
+position: absolute;
+height: 32px;
+left: 42.77%;
+right: 37.11%;
+top: calc(50% - 32px/2 - 727px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 49px;
+
+color: #979797;
+
+--
+
+Username (top menu)
+
+position: absolute;
+height: 43px;
+left: 87.11%;
+right: 6.33%;
+top: calc(50% - 43px/2 - 725.5px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 49px;
+
+color: #634720;
+
+--
+
+Field Preparation (form title)
+
+position: absolute;
+height: 34px;
+left: 10.35%;
+right: 74.41%;
+top: calc(50% - 34px/2 - 591px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 65px;
+
+color: #686868;
+
+--
+
+Start Button
+
+position: absolute;
+width: 162px;
+height: 85px;
+left: 265px;
+top: 286px;
+
+background: #634720;
+border-radius: 7px;
+
+--
+
+Start Button Text
+
+position: absolute;
+height: 19px;
+left: 11.91%;
+right: 84.88%;
+top: calc(50% - 19px/2 - 471.5px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 14px;
+/* or 43% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+--
+
+Pause / Stop button
+
+position: absolute;
+width: 269px;
+height: 85px;
+left: 467px;
+top: 286px;
+
+background: #F0F0F0;
+border: 4px solid #E2E2E2;
+border-radius: 7px;
+--
+
+Pause / Stop button Text
+
+position: absolute;
+height: 17px;
+left: 19.8%;
+right: 72.81%;
+top: calc(50% - 17px/2 - 471.5px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 14px;
+/* or 43% */
+
+text-align: center;
+
+color: #A7A7A7;
+
+-
+
+Restart Button
+
+position: absolute;
+width: 190px;
+height: 85px;
+left: 776px;
+top: 286px;
+
+background: #F0F0F0;
+border: 4px solid #E2E2E2;
+border-radius: 7px;
+
+--
+
+Restart button text
+
+position: absolute;
+height: 17px;
+left: 31.88%;
+right: 63.83%;
+top: calc(50% - 17px/2 - 468.5px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 14px;
+/* or 43% */
+
+text-align: center;
+
+color: #A7A7A7;
+
+--
+tractor beside icon green 
+
+position: absolute;
+left: 75.03%;
+right: 21.47%;
+top: 17.63%;
+bottom: 78.49%;
+
+background: #3DB371;
+
+--
+tractor beside icon green (text)
+
+position: absolute;
+width: 19px;
+height: 21px;
+left: 1976px;
+top: 303.06px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 22px;
+/* or 92% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+--
+red button beside green 
+
+position: absolute;
+left: 78.92%;
+right: 17.59%;
+top: 17.63%;
+bottom: 78.49%;
+
+background: #E64C3C;
+--
+red button text beside green 
+
+position: absolute;
+width: 20px;
+height: 21px;
+left: 2072px;
+top: 303.06px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 22px;
+/* or 92% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+-
+
+Records button
+
+position: absolute;
+width: 256.08px;
+height: 89.5px;
+left: 2182px;
+top: 265px;
+
+background: #FFFFFF;
+border: 2px solid #634720;
+box-sizing: border-box;
+border-radius: 7px;
+
+--
+
+record button text
+
+position: absolute;
+height: 15px;
+left: 87.58%;
+right: 7.07%;
+top: calc(50% - 15px/2 - 490.5px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 14px;
+/* or 38% */
+
+text-align: center;
+
+color: #634720;
+--
+
+drop down with green border
+
+position: absolute;
+width: 681.23px;
+height: 94.48px;
+left: 265px;
+top: 490px;
+
+background: #FFFFFF;
+border: 3px solid #009845;
+box-sizing: border-box;
+border-radius: 7px;
+
+--
+
+drop down with green border text
+
+position: absolute;
+height: 22px;
+left: 11.21%;
+right: 85.39%;
+top: calc(50% - 22px/2 - 263px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 22px;
+/* identical to box height, or 61% */
+
+
+color: #686868;
+--
+
+form label text
+
+position: absolute;
+height: 30px;
+left: 10.35%;
+right: 86.05%;
+top: calc(50% - 30px/2 - 339px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 22px;
+/* or 61% */
+
+
+color: #686868;
+
+--
+
+Mandatory drop down 
+
+position: absolute;
+width: 2172.97px;
+height: 94.48px;
+left: 265px;
+top: 721px;
+
+background: #F1FCF9;
+border: 3px solid #CBCBCB;
+box-sizing: border-box;
+border-radius: 7px;
+--
+
+Mandatory drop down 
+
+position: absolute;
+height: 22px;
+left: 11.21%;
+right: 81.09%;
+top: calc(50% - 22px/2 - 31px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 22px;
+/* identical to box height, or 61% */
+
+
+color: #686868;
+
+--
+Big Start button (submit form)
+
+position: absolute;
+width: 1442.02px;
+height: 121.83px;
+left: 638px;
+top: 1376px;
+
+background: #634720;
+border-radius: 14px;
+
+-
+
+Big Start button text
+
+position: absolute;
+height: 24px;
+left: 49.22%;
+right: 43.01%;
+top: calc(50% - 24px/2 + 637px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 14px;
+/* or 29% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+--
+
+Login Username Text Field
+
+position: absolute;
+left: 0%;
+right: 0.27%;
+top: 0.89%;
+bottom: 7.33%;
+
+background: #FFFFFF;
+border: 0.55px solid rgba(86, 86, 86, 0.5);
+box-sizing: border-box;
+border-radius: 5px;
+--
+Login Username Text field Style
+
+position: absolute;
+height: 49px;
+left: 4.75%;
+right: 73.93%;
+top: calc(50% - 49px/2 - 4.56px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 49px;
+
+color: #787E8C;
+
+--
+
+remember me
+
+position: absolute;
+height: 53.12px;
+left: 52.65%;
+right: 37.37%;
+top: calc(50% - 53.12px/2 + 176.05px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 49px;
+
+color: #787E8C;
+--
+Login button
+
+position: absolute;
+left: 0%;
+right: 0.24%;
+top: -0.56%;
+bottom: 0.88%;
+
+background: #634720;
+border-radius: 5px;
+
+--
+login button text
+
+position: absolute;
+height: 49px;
+left: 43.72%;
+right: 43.96%;
+top: calc(50% - 49px/2 - 0.98px);
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+
+---
+/* Farm Manaegement Transformed */
+
+
+position: absolute;
+width: 550px;
+height: 49px;
+left: 430.52px;
+top: 1056.51px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+
+color: #787E8C;
+
+
+
